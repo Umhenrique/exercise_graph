@@ -10,7 +10,7 @@ caminho mais curto, através do aplicativo GraphViz.
 ![image](https://user-images.githubusercontent.com/78885003/221186401-ad114e84-441e-4e50-9aeb-e40ba3cc930d.png)
 
 2. Programar os seguintes algoritmos de geração de árvore mínima:
-3. 
+
 a) Prim
 b) Kruskal
 c) Boruvka
